@@ -35,7 +35,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>AWS Cloud Practitioner</li>
-        <li>Google Professional Cloud Developer</li>
+        <li>Junior Web Developer</li>
         <li>Machine Learning Development</li>
         <li>Creating Back-End Applications for Beginners</li>
       </ul>
@@ -64,7 +64,7 @@ const AboutSection = () => {
           I am a web developer with a passion for creating
             interactive and responsive web applications. I have experience
             working with JavaScript, React, Hapi-server, Node.js, PHP, PostgreSQL,
-            Python, HTML, CSS, and Git. I am a quick learner and I am always
+            Python,and Git With Github. I am a quick learner and I am always
             looking to expand my knowledge and skill set. I am a team player and
             I am excited to work with others to create amazing applications.
           </p>
