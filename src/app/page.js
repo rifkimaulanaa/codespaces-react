@@ -18,6 +18,8 @@ export default function Home() {
         <AboutSection />
         <ProjectsSection />
         <EmailSection />
+        <Analytics />
+        <SpeedInsights />
       </div>
       <Footer />
     </main>
